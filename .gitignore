@@ -1,0 +1,13 @@
+# Пароли и доступы
+credentials.json
+auth.py
+
+# Кэши и временные файлы
+last_seen_cache.json
+__pycache__/
+*.pyc
+debug_ets.json
+
+# Окружение (если будешь использовать venv)
+venv/
+.env
